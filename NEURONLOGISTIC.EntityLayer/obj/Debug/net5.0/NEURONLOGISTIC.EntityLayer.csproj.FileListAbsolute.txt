@@ -1,0 +1,11 @@
+C:\PROJELER\Asp.NetCoreExample\NEURONLOGISTIC\NEURONLOGISTIC.EntityLayer\bin\Debug\net5.0\NEURONLOGISTIC.EntityLayer.deps.json
+C:\PROJELER\Asp.NetCoreExample\NEURONLOGISTIC\NEURONLOGISTIC.EntityLayer\bin\Debug\net5.0\NEURONLOGISTIC.EntityLayer.dll
+C:\PROJELER\Asp.NetCoreExample\NEURONLOGISTIC\NEURONLOGISTIC.EntityLayer\bin\Debug\net5.0\ref\NEURONLOGISTIC.EntityLayer.dll
+C:\PROJELER\Asp.NetCoreExample\NEURONLOGISTIC\NEURONLOGISTIC.EntityLayer\bin\Debug\net5.0\NEURONLOGISTIC.EntityLayer.pdb
+C:\PROJELER\Asp.NetCoreExample\NEURONLOGISTIC\NEURONLOGISTIC.EntityLayer\obj\Debug\net5.0\NEURONLOGISTIC.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJELER\Asp.NetCoreExample\NEURONLOGISTIC\NEURONLOGISTIC.EntityLayer\obj\Debug\net5.0\NEURONLOGISTIC.EntityLayer.AssemblyInfoInputs.cache
+C:\PROJELER\Asp.NetCoreExample\NEURONLOGISTIC\NEURONLOGISTIC.EntityLayer\obj\Debug\net5.0\NEURONLOGISTIC.EntityLayer.AssemblyInfo.cs
+C:\PROJELER\Asp.NetCoreExample\NEURONLOGISTIC\NEURONLOGISTIC.EntityLayer\obj\Debug\net5.0\NEURONLOGISTIC.EntityLayer.csproj.CoreCompileInputs.cache
+C:\PROJELER\Asp.NetCoreExample\NEURONLOGISTIC\NEURONLOGISTIC.EntityLayer\obj\Debug\net5.0\NEURONLOGISTIC.EntityLayer.dll
+C:\PROJELER\Asp.NetCoreExample\NEURONLOGISTIC\NEURONLOGISTIC.EntityLayer\obj\Debug\net5.0\ref\NEURONLOGISTIC.EntityLayer.dll
+C:\PROJELER\Asp.NetCoreExample\NEURONLOGISTIC\NEURONLOGISTIC.EntityLayer\obj\Debug\net5.0\NEURONLOGISTIC.EntityLayer.pdb
